@@ -1,64 +1,67 @@
-<h1 align="center">Hey, sono Abo 👋</h1>
+<h1 align="center">Hey there, I'm Abo 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=00FFCC&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+in+progress...;Game+Dev+%7C+Cybersecurity+lover;Always+learning+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+in+the+Making;Game+Dev+%7C+Cybersecurity+Enthusiast;Code.+Create.+Break.+Repeat." alt="Typing SVG" />
 </p>
 
 ---
 
-### 🚀 Su di me
+### 🧠 About Me
 
-- 🧠 17 anni, studente italiano appassionato di **informatica**
-- 💻 Sviluppo giochi, gestionali, app con GUI, e sistemi con **QR code**
-- 🎮 Creo su **Roblox** (esperto in Lua) e mi sto specializzando nel **web development**
-- 🔐 Mi interessa la **cybersecurity** e voglio diventare un ethical hacker
-- 🌐 Sogno di diventare un **Full Stack Developer**
-- 🧩 Linguaggi preferiti: `Java`, `JavaScript`, `Python`, `Lua`, `HTML/CSS`
+- 🧑‍💻 17-year-old developer from Italy
+- 💡 Passionate about full stack development, game programming, and cybersecurity
+- 🎮 Building interactive games with **Roblox Lua**
+- 🧰 Crafting GUI-based Java applications & inventory systems with **QR code integration**
+- 🌐 Currently mastering the **full stack roadmap** (JS, React, Node, MongoDB & more)
+- 🔐 Aspiring ethical hacker, always exploring the edge of security and tech
 
 ---
 
-### 💻 Tecnologie & Tool preferiti
+### ⚙️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,python,lua,react,nodejs,github,git,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,python,lua,react,nodejs,mongodb,github,git,vscode,figma" />
 </p>
 
 ---
 
-### 🎮 Progetti in corso
+### 💼 Projects I'm Working On
 
-- 📱 Sistema per la **CRI Acqui Terme** con login, gestione veicoli, QR code e checklists
-- 🕹️ Mini giochi e prototipi su **Roblox**
-- 📊 App gestionali con GUI personalizzata in Java
-- 🌐 Roadmap avanzata per diventare full stack con progetti pratici
+- 🚑 **CRI Vehicle Management System** – Tracks vehicles, checklists, and materials via QR
+- 🧪 Full-stack clone apps & dashboards (MERN, Tailwind, Framer Motion)
+- 🕹️ Roblox mini-games & Lua mechanics testing
+- 📊 GUI apps in Java with event-based architecture and custom design
 
 ---
 
-### 📈 Le mie statistiche su GitHub
+### 📊 GitHub Stats (Boosted to reflect my goals 😎)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abo-dev&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abo-dev&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abo-dev&show_icons=true&theme=radical&hide_border=true&count_private=true&custom_title=Abo's+GitHub+Stats&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=abo-dev&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abo-dev&theme=react-dark&hide_border=true&area=true" width="95%"/>
 </p>
 
 ---
 
-### 🧠 Top Languages
+### 🔝 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abo-dev&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abo-dev&layout=compact&theme=radical&hide_border=true" width="40%" />
 </p>
 
 ---
 
-### 🌐 Social & Contatti
+### 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.roblox.com/users/your-user/profile"><img src="https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-grey?style=for-the-badge&logo=linkedin" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Roblox-grey?style=for-the-badge&logo=roblox" /></a>
 </p>
 
 ---
 
-> 🧩 *"Non si smette mai di imparare. Ogni riga di codice è un passo verso il mio futuro."*
-
+> ⚡ *“Break stuff. Fix it. Learn faster than yesterday.”*
