@@ -36,12 +36,12 @@
 ### 📊 GitHub Stats (Boosted to reflect my goals 😎)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abo-dev&show_icons=true&theme=radical&hide_border=true&count_private=true&custom_title=Abo's+GitHub+Stats&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=abo-dev&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abotabo007&show_icons=true&theme=radical&hide_border=true&count_private=true&custom_title=Abo's+GitHub+Stats&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=abotabo007&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abo-dev&theme=react-dark&hide_border=true&area=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abotabo007&theme=react-dark&hide_border=true&area=true" width="95%"/>
 </p>
 
 ---
@@ -49,7 +49,7 @@
 ### 🔝 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abo-dev&layout=compact&theme=radical&hide_border=true" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abotabo007v&layout=compact&theme=radical&hide_border=true" width="40%" />
 </p>
 
 ---
