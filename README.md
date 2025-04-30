@@ -7,9 +7,9 @@
 
 ### 🧠 About Me
 
-- 🧑‍💻 17-year-old developer from Italy
+- 🧑‍💻 17-year-old "developer"
 - 💡 Passionate about full stack development, game programming, and cybersecurity
-- 🎮 Building interactive games with **Roblox Lua**
+- 🎮 Building interactive projects with **Lua**
 - 🧰 Crafting GUI-based Java applications & inventory systems with **QR code integration**
 - 🌐 Currently mastering the **full stack roadmap** (JS, React, Node, MongoDB & more)
 - 🔐 Aspiring ethical hacker, always exploring the edge of security and tech
@@ -26,9 +26,9 @@
 
 ### 💼 Projects I'm Working On
 
-- 🚑 **CRI Vehicle Management System** – Tracks vehicles, checklists, and materials via QR
+- 🚑 ** Vehicle Management System** – Tracks vehicles, checklists, and materials via QR
 - 🧪 Full-stack clone apps & dashboards (MERN, Tailwind, Framer Motion)
-- 🕹️ Roblox mini-games & Lua mechanics testing
+- 🕹️ Currently working on a project involving land registries and property names.
 - 📊 GUI apps in Java with event-based architecture and custom design
 
 ---
